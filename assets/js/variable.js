@@ -31,7 +31,7 @@ var _site_bg_overlay_disable =                    false; // [true, false] - forc
 var _map_toggle =                                 true;
 
 // map latitude
-var _map_latitude_longitude =                     [35.6046472, 140.2642208];
+var _map_latitude_longitude =                     [34.057146, -117.821789];
 
 // map water color
 var _map_water_color =                            '#1080f2';

@@ -16,7 +16,7 @@ function initialize() {
         center: myLatlng,
         disableDefaultUI: true,
         scrollwheel: false,
-        zoom: 10, // zoom level
+        zoom: 12, // zoom level
         mapTypeId: google.maps.MapTypeId.ROADMAP,
         mapTypeControl: false,
         streetViewControl: false,

@@ -45,7 +45,7 @@ var _map_water_color =                            '#1080f2';
 //
 
 // for desktop
-var _bg_style_desktop =                           0;
+var _bg_style_desktop =                           1;
                                                     // 0 = flat color
                                                     // 1 = flat color     (mp3 audio) - audio place at /audio/audio.mp3
                                                     // 2 = image

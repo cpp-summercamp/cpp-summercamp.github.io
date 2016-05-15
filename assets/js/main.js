@@ -238,7 +238,7 @@ offset = - $('.navbar-header').height();
       }
     });
   }
-  fn_contact();
+  // fn_contact();
 
 //
 // site background
